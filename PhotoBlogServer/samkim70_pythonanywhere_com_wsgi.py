@@ -1,7 +1,7 @@
 import os
 import sys
 
-path = '/home/samkim70/my-first-blog' # PythonAnywhere 계정으로 바꾸세요.
+path = '/home/samkim70/django_image_blog' # PythonAnywhere 계정으로 바꾸세요.
 if path not in sys.path:
     sys.path.append(path)
     
